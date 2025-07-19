@@ -1,5 +1,5 @@
 var nome = "Naruto";
-var xp = 5001;
+var xp = 10001;
 var nivel = "";
 
 if (xp <= 1000){
